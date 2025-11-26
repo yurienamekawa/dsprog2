@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 授業の指示により、同期対象外とするデータファイル
+lecture-sp/games.csv
+lecture-sp/play_info.csv
+lecture-sp/players.csv
+lecture-sp/stats_bat.csv
+lecture-sp/stats_pit.csv
